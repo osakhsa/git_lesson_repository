@@ -1,1 +1,2 @@
-print("It's my first Git program!")
+#I am the true author!
+print("Hello Git")
